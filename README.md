@@ -1,3 +1,11 @@
+# Change
+- Clone this repository
+- Open project in Visual Studio Code
+- Change url at the top of apiFacade to your own domain name.
+- Navigate into the folder via terminal
+- Run: "npm install react-router-dom", "npm start"
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
