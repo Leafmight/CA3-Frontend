@@ -5,6 +5,13 @@
 - Navigate into the folder via terminal
 - Run: "npm install react-router-dom", "npm start"
 
+# Deploy Frontend
+- Remember to change URL's from local to the domain
+- Run: "npm run build".
+- Run: "sudo npm install -g surge".
+- Run: "surge --project ./build --domain DOMAIN_NAME.surge.sh".
+- Enter email and password.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
